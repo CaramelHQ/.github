@@ -20,7 +20,7 @@ Caramel is built with a modern Node.js stack:
 
 - Node.js + TypeScript  
 - Sapphire Framework  
-- PostgreSQL (Sequelize)  
+- PostgreSQL (Prisma)  
 - Redis (ioredis)  
 - BullMQ workers  
 
