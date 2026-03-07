@@ -24,10 +24,6 @@ Caramel is built with a modern Node.js stack:
 - Redis (ioredis)  
 - BullMQ workers  
 
-## Repository
-
-https://github.com/CaramelHQ/Caramel
-
 ## Contributing
 
-Contributions are welcome through issues and pull requests.
+Contributions will be welcome through issues and pull requests.
