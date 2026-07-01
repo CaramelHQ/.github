@@ -1,29 +1,19 @@
-# CaramelHQ
+# Caramel
 
-CaramelHQ develops and maintains **Caramel**, a modular Discord bot built with the Sapphire Framework and TypeScript.
+Caramel is a software studio building tools, applications, and systems for creators and online communities.
 
-The project focuses on scalable bot architecture, clean module design, and reliable background processing for Discord server automation.
+We experiment, ship small products, and focus on practical software that solves real problems.
 
-## Caramel
+## Projects
 
-Caramel provides a suite of moderation and automation tools designed for modern Discord communities, including:
+Caramel maintains several projects, including:
 
-- modular feature system with per-guild configuration  
-- moderation utilities and sanction history  
-- vanity status tracking with automated role management  
-- silent ban and progressive restriction systems  
-- background job processing and cache synchronization  
+- tools for creators and streamers  
+- utilities for online communities  
+- experimental software systems  
+- infrastructure and backend services  
 
-## Technology
+## Philosophy
 
-Caramel is built with a modern Node.js stack:
-
-- Node.js + TypeScript  
-- Sapphire Framework  
-- PostgreSQL (Prisma)  
-- Redis (ioredis)  
-- BullMQ workers  
-
-## Contributing
-
-Contributions will be welcome through issues and pull requests.
+We prefer shipping small, functional products over large unfinished systems.  
+We iterate quickly, keep things simple, and focus on usefulness.
